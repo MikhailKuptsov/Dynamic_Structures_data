@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
-  ListItem* A = new ListItem();
-    A->add(7);
+  ListItem.data=7;
+  ListItem.getData();
+  ListItem.setNext;
 }
